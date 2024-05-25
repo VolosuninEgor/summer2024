@@ -16,4 +16,4 @@ To begin with, my plans:
 
 ### Programming.
    One of the main goals of this summer, along with thinking. Learn how to program and figure out how everything works. At least 2 hours a day. 
-   Perhaps George Hotz's (course)[https://github.com/geohot/fromthetransistor]
+   Perhaps George Hotz's [course](https://github.com/geohot/fromthetransistor)
