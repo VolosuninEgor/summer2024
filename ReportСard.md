@@ -1,5 +1,8 @@
 # Report card by day
 
+## May 26
+I'm starting my studies today. Another goal that came to my mind is to love mathematics. Today I started to thin out some assignments and realized how dumb I am in math. For a while I will concentrate on the Unified State Exam in mathematics, solve and understand the topics, but at the same time I want to look at more native topics of mathematics in computer science
+
 ## May 25
 This is first day, today I am setting up this repository and starting to implement the plan (2 hours of mathematics and programming each).
 I am considering the option of preparing for the Unified State Exam as a math class. On the one hand, there is less interest, on the other hand, there is a great practical benefit.
