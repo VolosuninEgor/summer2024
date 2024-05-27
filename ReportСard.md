@@ -1,5 +1,8 @@
 # Report card by day
 
+## May 27
+There is little interest in studying use mathematics, I think this way I will not do anything, I want something more applied, such as Bayesian probability or close to programming, I need interest, preparation for the use does not give it. I'm slowly starting a course from George Hotz, let's see where it leads.
+
 ## May 26
 I'm starting my studies today. Another goal that came to my mind is to love mathematics. Today I started to thin out some assignments and realized how dumb I am in math. For a while I will concentrate on the Unified State Exam in mathematics, solve and understand the topics, but at the same time I want to look at more native topics of mathematics in computer science. I will focus on probability theory for the first few days
 
