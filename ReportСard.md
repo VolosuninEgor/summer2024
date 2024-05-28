@@ -1,5 +1,8 @@
 # Report card by day
 
+## May 28
+It turns out that the fromthetransistor course has a website, which greatly simplifies everything, because I thought that absolutely everything would have to be found and searched for myself, but this is not the case. I'm starting to work hard in this direction, but I'm not doing any math yet.
+
 ## May 27
 There is little interest in studying use mathematics, I think this way I will not do anything, I want something more applied, such as Bayesian probability or close to programming, I need interest, preparation for the use does not give it. I'm slowly starting a course from George Hotz, let's see where it leads.
 
