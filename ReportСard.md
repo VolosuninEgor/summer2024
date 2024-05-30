@@ -1,5 +1,8 @@
 # Report card by day
 
+## May 29
+There are problems with installing Verilator on Windows, as I understand it, everyone has difficulties with this, so far it is not critical, I will try to cope without it, tomorrow I will work with UART and Verilog syntax
+
 ## May 28
 It turns out that the fromthetransistor course has a website, which greatly simplifies everything, because I thought that absolutely everything would have to be found and searched for myself, but this is not the case. I'm starting to work hard in this direction, but I'm not doing any math yet.
 
