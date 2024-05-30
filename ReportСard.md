@@ -1,5 +1,8 @@
 # Report card by day
 
+## May 30
+For the most part, I solved problems in python and c++, tomorrow I will understand verilog and UART, I have left serious mathematics for now, for general development I watch videos like 3blow1brown, Math, etc. While I'm reading Maria Konnikova, it's very informative
+
 ## May 29
 There are problems with installing Verilator on Windows, as I understand it, everyone has difficulties with this, so far it is not critical, I will try to cope without it, tomorrow I will work with UART and Verilog syntax
 
