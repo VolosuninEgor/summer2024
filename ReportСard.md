@@ -1,5 +1,8 @@
 # Report card by day
 
+## May 31 
+I didn't have any serious studies today, I'll fix it tomorrow, but I practiced the verilog syntax and found a way to emulate it using icarus verilog and GTKwave, which opens up new possibilities. My small morning classes at the local university are over and I will be able to start the fromthetransistor course with full strength. Tomorrow is the first day of summer, this is the key moment!
+
 ## May 30
 For the most part, I solved problems in python and c++, tomorrow I will understand verilog and UART, I have left serious mathematics for now, for general development I watch videos like 3blow1brown, Math, etc. While I'm reading Maria Konnikova, it's very informative
 
