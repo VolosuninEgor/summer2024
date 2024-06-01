@@ -2,6 +2,7 @@
 
 ## June 1
 The first day of summer, from now on I get involved in active work! Today I will work on the verilog on the Hardware Description Language Programming (Verilog) playlist and I will already start doing UART, which should have been done 3 days ago, I am behind schedule. I also started to master git and github at least at a basic level
+One o'clock in the morning, due to the fact that there were some problems with the code simulation, the UART is in flight again today, tomorrow I will not allow this
 
 ## May 31 
 I didn't have any serious studies today, I'll fix it tomorrow, but I practiced the verilog syntax and found a way to emulate it using icarus verilog and GTKwave, which opens up new possibilities. My small morning classes at the local university are over and I will be able to start the fromthetransistor course with full strength. Tomorrow is the first day of summer, this is the key moment!
