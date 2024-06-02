@@ -1,7 +1,8 @@
 # Report card by day
 
 ## June 2
-A little dancing with a tambourine, due to the fact that I connected the repository to git and/or github, I can't emulate the work, but I just created a separate folder that is not linked to the repository and already test the code there, after which I upload it to the main folder and push it to the repository
+A little dancing with a tambourine, due to the fact that I connected the repository to git and/or github, I can't emulate the work, but I just created a separate folder that is not linked to the repository and already test the code there, after which I upload it to the main folder and push it to the repository.
+I found an example of the UART code, today I will start to disassemble it, tomorrow I will finish and start writing on my own 
 
 ## June 1
 The first day of summer, from now on I get involved in active work! Today I will work on the verilog on the Hardware Description Language Programming (Verilog) playlist and I will already start doing UART, which should have been done 3 days ago, I am behind schedule. I also started to master git and github at least at a basic level
