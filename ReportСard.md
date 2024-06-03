@@ -1,5 +1,8 @@
 # Report card by day
 
+## June 3
+I'm finishing a course on verilog, but UART seems to be flying again, but the day was spent productively anyway. I created a repository for notes, it's time to get down to pumping thinking. It has come to realize how valuable these days without school are, you need to spend it wisely and enjoy every moment of freedom.
+
 ## June 2
 A little dancing with a tambourine, due to the fact that I connected the repository to git and/or github, I can't emulate the work, but I just created a separate folder that is not linked to the repository and already test the code there, after which I upload it to the main folder and push it to the repository.
 I found an example of the UART code, today I will start to disassemble it, tomorrow I will finish and start writing on my own 
