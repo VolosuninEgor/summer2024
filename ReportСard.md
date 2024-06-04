@@ -1,4 +1,6 @@
 # Report card by day
+## June 4
+I'm done with UART, although it's a little dirty, but still my task here is to familiarize myself and it doesn't make much sense to go into details, too much time has already been spent on this section, it's time to move on. Tomorrow I plan to arrange a math day, start taking some kind of course from scratch to restore the gaps in knowledge.
 
 ## June 3
 I'm finishing a course on verilog, but UART seems to be flying again, but the day was spent productively anyway. I created a repository for notes, it's time to get down to pumping thinking. It has come to realize how valuable these days without school are, you need to spend it wisely and enjoy every moment of freedom.
