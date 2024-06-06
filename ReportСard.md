@@ -1,4 +1,11 @@
 # Report card by day
+
+## June 6
+It's time to adjust the regime! I got up at 8, it's 14 now and the time of idleness is over! I'll take up rationality for now
+
+## June 5
+I didn't do anything today, I was captured by black clover 45 episodes in one sitting!
+
 ## June 4
 I'm done with UART, although it's a little dirty, but still my task here is to familiarize myself and it doesn't make much sense to go into details, too much time has already been spent on this section, it's time to move on. Tomorrow I plan to arrange a math day, start taking some kind of course from scratch to restore the gaps in knowledge.
 
