@@ -1,7 +1,7 @@
 # Report card by day
 
-## June 6
-It's time to adjust the regime! I got up at 8, it's 14 now and the time of idleness is over! I'll take up rationality for now
+## June 6 - 7
+I fully experienced the life of an introvert doing nothing, and I didn't like it, I'm going back to work.
 
 ## June 5
 I didn't do anything today, I was captured by black clover 45 episodes in one sitting!
