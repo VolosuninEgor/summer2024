@@ -1,5 +1,8 @@
 # Report card by day
 
+## June 21
+I've been in the village for two weeks, rethinking some things. I'm putting off the fromthetransistor course for now and starting to learn algorithms and Olympiad programming. I do three days of prog, three days of math, one rest. I have read, so far, half of the book "Think like a mathematician", I will try to apply the methods described there in practice, the rest of this week I will whistle the notes of the summary of the book and the gradual completion
+
 ## June 6 - 7
 I fully experienced the life of an introvert doing nothing, and I didn't like it, I'm going back to work.
 
